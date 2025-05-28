@@ -1,0 +1,1 @@
+Move-Item -Path C:\Users\mauri\OneDrive\Escritorio\origensql\*.sql -Destination C:\Users\mauri\OneDrive\Escritorio\destinosql
